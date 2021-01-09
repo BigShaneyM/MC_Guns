@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MTA_GUNS:jar">
+    <output-path>$USER_HOME$/Desktop/MTA/PAPER 1.16.4/plugins</output-path>
+    <root id="archive" name="MTA_GUNS.jar">
+      <element id="module-output" name="MTA_GUNS" />
+    </root>
+  </artifact>
+</component>
